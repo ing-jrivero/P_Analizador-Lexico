@@ -1,0 +1,20 @@
+//PALABRAS RESERVADAS 
+$$ SELECT FROM WHERE INSERT INTO VALUES UPDATE SET  DELETE 
+//SIGNOS ARITMETICOS
+= + - * / ;
+//SENTENCIAS SQL
+select * from tabla1;
+SELECT ncontrol FROM tabla2 WHERE ncontrol=11;
+select * from tabla1 where n=0 order by asc = 1;
+SELECT * FROM tabla2 WHERE n=1 GROUP BY ASC=1;
+
+insert into tabla3 values (3,2,4);
+INSERT INTO tabla3 (edad1,edad2,edad3) VALUES (3,2,4);
+
+update empleado set estatus = v where ncontrol = 12;
+UPDATE empleado SET estatus = v WHERE ncontrol = 12;
+
+delete from alumno where matricula = 1;
+DELETE FROM alumno WHERE matricula=1;
+ 
+
